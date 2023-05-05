@@ -1,0 +1,9 @@
+%Sudoku
+
+%Variables
+
+
+%Dominios
+
+
+%Restricciones

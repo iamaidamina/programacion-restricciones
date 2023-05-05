@@ -1,0 +1,5 @@
+%Datos
+personas = ["jose", "julian", "diana", "juan", "david", "claudia", "edgar", "mario"]; %personas que participaran de la foto
+next=[|5, 8|]; %la persona en la posición 5 debe estar junto a la persona en la posición 8
+separate=[|6, 7|]; %la persona en la posición 6 no debe estar junto a la persona en la posición 7
+distance=[|6, 5, 2|]; %%la persona en la posición 6 debe estar separada de la persona en la posición 5 como maximo por dos personas

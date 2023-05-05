@@ -1,0 +1,9 @@
+%Kakuro
+
+%Variables
+
+
+%Dominios
+
+
+%Restricciones
